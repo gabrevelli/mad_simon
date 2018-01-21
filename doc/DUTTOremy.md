@@ -15,5 +15,5 @@ Gabriel et moi avons ensuite tester des leds RVB, essayer plusieurs couleurs et 
 * Scéance 3:
 
 Tout d'abord, nous avons rééssayer de faire marcher les LED RGV et de changer la fonction que l'on avais créer pour pouvoir regrouper les 3 valeur des pin d'une led en une liste de valeur. Ensuite, nous nous sommes attaqué au Speaker, nous avons reussi a faire des sons grace a ce module et meme nous avons pu jouer une air de tétris.
-Ensuite je me suis renseigner sur l'utilisation du module permettant d'avoir plus de PWM, et je pense avoir compris comment ça marche grace au site:h ttps://create.arduino.cc/projecthub/jithinsanal1610/servo-motor-using-arduino-pca9685-16-chanel-module-d9666e
+Ensuite je me suis renseigner sur l'utilisation du module permettant d'avoir plus de PWM, et je pense avoir compris comment ça marche grace au site: https://create.arduino.cc/projecthub/jithinsanal1610/servo-motor-using-arduino-pca9685-16-chanel-module-d9666e
 
