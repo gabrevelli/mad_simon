@@ -37,3 +37,5 @@ Nous avons donc ensuite fait imprimer nos deux piece et nous sommes assez satisf
 * Scéance 6 :
 
 Gabriel etant malade, j'ai recuperer ce que je pensais être le programme pour pouvoir l'essayer lorsque j'aurai poser toutes les leds et tout les modules dans notre "boite". Mais quand ce que j'ai recupérer n'etait que le premier essaie de notre programme qui n'était pas addapté au module 16PWM. au lieu de retaper tous le programme ce qui m'aurai pris au mois l'heur, j'ai plutot fait l'instalations de toutes les LEDS, du module 16PWM et de l'arduino dans la "boite", ainsi que le buzzer. Maintenant il faut juste uqe je teste voir si tout marche au mieux au niveau élèctronique.
+Ce qu'il reste a faire au niveau élèctronique c'est brancher deux module bluetooth pour pouvoir connecter deux portable si on veux en connecter deux et faire un mode multijoueur.
+
