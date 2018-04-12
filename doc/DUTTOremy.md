@@ -37,5 +37,21 @@ Nous avons donc ensuite fait imprimer nos deux piece et nous sommes assez satisf
 * Scéance 6 :
 
 Gabriel etant malade, j'ai recuperer ce que je pensais être le programme pour pouvoir l'essayer lorsque j'aurai poser toutes les leds et tout les modules dans notre "boite". Mais quand ce que j'ai recupérer n'etait que le premier essaie de notre programme qui n'était pas addapté au module 16PWM. au lieu de retaper tous le programme ce qui m'aurai pris au mois l'heur, j'ai plutot fait l'instalations de toutes les LEDS, du module 16PWM et de l'arduino dans la "boite", ainsi que le buzzer. Maintenant il faut juste uqe je teste voir si tout marche au mieux au niveau élèctronique.
-Ce qu'il reste a faire au niveau élèctronique c'est brancher deux module bluetooth pour pouvoir connecter deux portable si on veux en connecter deux et faire un mode multijoueur.
+Ce qu'il reste a faire au niveau élèctronique c'est brancher deux module bluetooth pour pouvoir connecter deux portable si on veux en connecter deux et faire un mode multijoueur.* Scéance 6:
+
+J'ai amménagé tous les composants dan la boite imprimé du fablab et j'ai enfin pu essayer les leds, toutes les leds fonctinnaient.
+
+* Scéance 7:
+
+J'ai commencé a branché le bluetooth, j'avais oublié qu'il nous fallais 2 resistances par LED. j'ai donc soudé les résistances et branché les cartes bluetooth à la base et au VCC.
+Petit problème: j'ai fais tomber une goute d'etain sur la cate arduino. j'ai essayer de tout enlever mais helas maintenant la carte ne fonctionne plus. Nous utilisons donc actuellement la carte arduino de Gabriel.
+
+* Scéance 7:
+
+Notre programme ne fonctionnais pas. On a donc essayer de voir si cela venais du code ou de l'élèctronique. Il y avais quelques calbes qui n'avais pas aprécier le voyage et ils se sont desouder. j'ai donc resouder tous les cables restant et à la fin de la scéance, tout fonctinnais bien.
+
+* Scéance 8 :
+
+J'ai commencé a branché le bluetooth, j'avais oublié qu'il nous fallais 2 resistances par LED. J'ai donc soudé les résistances et branché les cartes bluetooth à la base et au VCC.
+Petit problème: j'ai fais tomber une goute d'etain sur la cate arduino. J'ai essayer de tout enlever mais helas maintenant la carte ne fonctionne plus. Nous utilisons donc actuellement la carte arduino de Gabriel.
 
