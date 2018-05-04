@@ -46,12 +46,13 @@ J'ai amménagé tous les composants dan la boite imprimé du fablab et j'ai enfi
 J'ai commencé a branché le bluetooth, j'avais oublié qu'il nous fallais 2 resistances par LED. j'ai donc soudé les résistances et branché les cartes bluetooth à la base et au VCC.
 Petit problème: j'ai fais tomber une goute d'etain sur la cate arduino. j'ai essayer de tout enlever mais helas maintenant la carte ne fonctionne plus. Nous utilisons donc actuellement la carte arduino de Gabriel.
 
-* Scéance 7:
+* Scéance 8:
 
 Notre programme ne fonctionnais pas. On a donc essayer de voir si cela venais du code ou de l'élèctronique. Il y avais quelques calbes qui n'avais pas aprécier le voyage et ils se sont desouder. j'ai donc resouder tous les cables restant et à la fin de la scéance, tout fonctinnais bien.
 
-* Scéance 8 :
+* Scéance 9 :
 
-J'ai commencé a branché le bluetooth, j'avais oublié qu'il nous fallais 2 resistances par LED. J'ai donc soudé les résistances et branché les cartes bluetooth à la base et au VCC.
-Petit problème: j'ai fais tomber une goute d'etain sur la cate arduino. J'ai essayer de tout enlever mais helas maintenant la carte ne fonctionne plus. Nous utilisons donc actuellement la carte arduino de Gabriel.
+Encore une fois, le fait de transporter la "boite" a dessouder/casser quelques cables. J'ai donc ressouder ces cables et j'ai renforcer tous les cables avec du scotch pour renforcer les soudures et ainsi éviter que les soudures ne lachent.
+
+* Scéance 10 : Mainteannt que tous les composants ont été branché, il fallais essayer si les puces bluetooth étaient bien branché (on avais deja essayé tous les autres composants et tous marchaient sans problème). J'ai donc fait un petit programme basique pour voir si les puces etaient connectés, je l'ai testé sur la premiere (tout marchais bien), sur la deuxième (tous marchait bien). Mais lorsque l'on branchais les deux en meme temps, le programme fonctionnait que pour la deuxième puce. Nous avons trouvé l'erreur (les puces envoyaient en simultané les reponses et le programme ne gérait que la reponse de la deuxième puce).Nous pensons que ce probleme sur ce petit programme n'aura aucune importance sur notre programme du jeu car les utilisateurs ne repondent pas parfaitement en même temps.
 
