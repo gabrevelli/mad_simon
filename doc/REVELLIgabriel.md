@@ -37,4 +37,8 @@ J'ai bossé le code arduino du côté application bluetooth sur le téléphone (
 
 ### Séance 10 - 15 avril 2018
 
+J'ai un probleme au niveau du bluetooth, car la puce bluetooth ne reçoit pas de réponse du téléphone dans le mode *2 joueurs* ce que j'ai pris 1h a essayer de résoudre.
+
 ### Séance 11 - 4 mai 2018
+
+on a bossé sur le bluetooth, on a résolu mon problème de la séance dernière et la puce bluetooth reçoit bien maintenant 
