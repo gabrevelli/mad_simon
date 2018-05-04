@@ -7,7 +7,7 @@ Cependant nous avons abandonné l'idée car les module qui peuvent calculer une 
 
 ### Séance 2 - 15 janvier 2018
 
-Nouveau Projet !!
+**Nouveau Projet !!**
 Nous avons trouvé un nouveau sujet qui suis le même style que le Super Simon mais avec des options supplémentaires, j'ai commencer à déssiner la boite qui contiendra l'arduino,  et j'ai aussi définis les variables qui nous seront essensseilles dans notre projet.
 Nous avons testé les Led RVB car nous en aurons besoin de 6, nous avons recontré notre premier problème qui est que les leds dans la led RVB sont séparé et ne forme pas une couleur mais 3, nous avons donc décidé de mettre du plexiglass au dessus des led pour diffuser les lumières
 
@@ -31,14 +31,18 @@ J'ai bossé le code arduino du côté application bluetooth sur le téléphone (
 
 ### Séance 7 - 28 mars 2018
 
+L'application utilise maintenant un bouton carré et un bouton rond tout les deux gris au lieu de boutons rouge sur l'application du téléphone.
+
 ### Séance 8 - 5 avril 2018
+
+J'ai presque terminé la partie **1 joueur**, il manque juste des petites bricoles esthétique.
 
 ### Séance 9 - 10 avril 2018
 
 ### Séance 10 - 15 avril 2018
 
-J'ai un probleme au niveau du bluetooth, car la puce bluetooth ne reçoit pas de réponse du téléphone dans le mode *2 joueurs* ce que j'ai pris 1h a essayer de résoudre.
+J'ai un probleme au niveau du bluetooth, car la puce bluetooth ne reçoit pas de réponse du téléphone dans le mode **2 joueurs** ce que j'ai pris 1h a essayer de résoudre.
 
 ### Séance 11 - 4 mai 2018
 
-on a bossé sur le bluetooth, on a résolu mon problème de la séance dernière et la puce bluetooth reçoit bien maintenant 
+on a bossé sur le bluetooth, on a presque résolu mon problème de la séance dernière et la puce bluetooth reçoit bien maintenant mais le problème c'est qu'il y en a qu'une seule qui reçoit sur les deux. 
