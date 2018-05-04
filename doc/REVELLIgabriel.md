@@ -27,4 +27,14 @@ J'ai fini de coder les fonctions pour afficher les lumières et le son que j'ai 
 
 ### Séance 6 - 21 mars 2018
 
-J'ai bossé le code arduino du côté application bluetooth sur le téléphone (application pour le téléphone), cette application porte cependant des problème car elle manque de couleurs de boutons. Etant donné que j'étais malade je n'ai pas pu posé mes questions, j'ai regardé un peu d'autre applications mais je n'ai pas trouvé mon bonheur donc l'appli utilise 3 fois le bouton rouge pour l'instant. Je n'ai pas pu tester mon code sur l'arduino car il est aux Lucioles. Si je fini le code du bluetooth la semaine prochaine on sera dans les temps par rapport a notre diagramme de gra
+J'ai bossé le code arduino du côté application bluetooth sur le téléphone (application pour le téléphone), cette application porte cependant des problème car elle manque de couleurs de boutons. Etant donné que j'étais malade je n'ai pas pu posé mes questions, j'ai regardé un peu d'autre applications mais je n'ai pas trouvé mon bonheur donc l'appli utilise 3 fois le bouton rouge pour l'instant. Je n'ai pas pu tester mon code sur l'arduino car il est aux Lucioles. Si je fini le code du bluetooth la semaine prochaine on sera dans les temps par rapport a notre diagramme de Grantt.
+
+### Séance 7 - 28 mars 2018
+
+### Séance 8 - 5 avril 2018
+
+### Séance 9 - 10 avril 2018
+
+### Séance 10 - 15 avril 2018
+
+### Séance 11 - 4 mai 2018
