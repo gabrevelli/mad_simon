@@ -56,5 +56,10 @@ Encore une fois, le fait de transporter la "boite" a dessouder/casser quelques c
 
 * Scéance 10 :
 
-Mainteannt que tous les composants ont été branché, il fallais essayer si les puces bluetooth étaient bien branché (on avais deja essayé tous les autres composants et tous marchaient sans problème). J'ai donc fait un petit programme basique pour voir si les puces etaient connectés, je l'ai testé sur la premiere (tout marchais bien), sur la deuxième (tous marchait bien). Mais lorsque l'on branchais les deux en meme temps, le programme fonctionnait que pour la deuxième puce. Nous avons trouvé l'erreur (les puces envoyaient en simultané les reponses et le programme ne gérait que la reponse de la deuxième puce).Nous pensons que ce probleme sur ce petit programme n'aura aucune importance sur notre programme du jeu car les utilisateurs ne repondent pas parfaitement en même temps.
+Maintenant que tous les composants ont été branché, il fallais essayer si les puces bluetooth étaient bien branché (on avais deja essayé tous les autres composants et tous marchaient sans problème). J'ai donc fait un petit programme basique pour voir si les puces etaient connectés, je l'ai testé sur la premiere (tout marchais bien), sur la deuxième (tous marchait bien). Mais lorsque l'on branchais les deux en meme temps, le programme fonctionnait que pour la deuxième puce. Nous avons trouvé l'erreur (les puces envoyaient en simultané les reponses et le programme ne gérait que la reponse de la deuxième puce).Nous pensons que ce probleme sur ce petit programme n'aura aucune importance sur notre programme du jeu car les utilisateurs ne repondent pas parfaitement en même temps.
+
+* Scéance 11 :
+
+Je me suis mis aujourd'hui a essayer de tranmettre et de recevoir des donnée des deux puces bluetooth. J'ai en parti reussi. J'ai renomer les deux puces bluetooth et grâce au portable de gablriel j'ai commencer a essayer de dialoguer. A la fin de la scéance, J'arrive a dialoguer (envoyer et recevoir) avec la puce bluetooth du joueur 2 mais avec la premiere, j'arrive qu'a envoyer des information de la carte au portable. Pour cela j'ai utilisé le meme code que pour la puce du joueur 2 donc je ne sais pas trop d'ou viens le problème. Pensant que ca ne viens pas du code, j'ai bien peur que ça ne vienne des brancement de la première puce bluetooth.
+
 
