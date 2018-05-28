@@ -31,18 +31,20 @@ J'ai bossé le code arduino du côté application bluetooth sur le téléphone (
 
 ### Séance 7 - 28 mars 2018
 
-L'application utilise maintenant un bouton carré et un bouton rond tout les deux gris au lieu de boutons rouge sur l'application du téléphone.
+L'application utilise maintenant un bouton carré et un bouton rond tout les deux gris au lieu de boutons rouge sur l'application du téléphone, celà évite de confondre les couleurs.
 
 ### Séance 8 - 5 avril 2018
 
-J'ai presque terminé la partie **1 joueur**, il manque juste des petites bricoles esthétique.
+J'ai presque terminé la partie **1 joueur**, il manque juste des petites bricoles esthétique (par rapport à l'application).
 
 ### Séance 9 - 10 avril 2018
 
+J'ai commencé à écrire le mode **2 Joueurs** que je n'ai pas testé encore sur l'arduino, à la fin de l'heure j'avais presque fini le mode **2 Joueurs** il manque plus qu'à l'essayer.
+
 ### Séance 10 - 15 avril 2018
 
-J'ai un probleme au niveau du bluetooth, car la puce bluetooth ne reçoit pas de réponse du téléphone dans le mode **2 joueurs** ce que j'ai pris 1h a essayer de résoudre.
+J'ai un probleme au niveau du bluetooth, car la puce bluetooth ne reçoit pas de réponse du téléphone dans le mode **2 joueurs** ce que j'ai pris 1h à essayer de résoudre. maintenant le joueur deux peut envoyer des données mais le jeux à deux joueurs en même temps marche pas.
 
 ### Séance 11 - 4 mai 2018
 
-on a bossé sur le bluetooth, on a presque résolu mon problème de la séance dernière et la puce bluetooth reçoit bien maintenant mais le problème c'est qu'il y en a qu'une seule qui reçoit sur les deux. 
+on a bossé sur le bluetooth, on a presque résolu mon problème de la séance dernière et la puce bluetooth reçoit bien maintenant mais le problème c'est qu'il y en a qu'une seule qui reçoit sur les deux. On peut choisir le mode de jeu auquel on veut jouer avec le téléphone, les instructions sont marqués sur le moniteur de l'application.
