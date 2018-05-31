@@ -35,7 +35,7 @@ L'application utilise maintenant un bouton carré et un bouton rond tout les deu
 
 ### Séance 8 - 5 avril 2018
 
-J'ai presque terminé la partie **1 joueur**, il manque juste des petites bricoles esthétique (par rapport à l'application).
+J'avais presque terminé la partie **1 joueur**, il manquait juste des petites bricoles esthétique (par rapport à l'application). Ce mode de jeu est maintenant terminé, il marche très bien, le seul problème c'est les faux contacts qui font éteindre les modules Bluetooth.
 
 ### Séance 9 - 10 avril 2018
 
@@ -43,8 +43,8 @@ J'ai commencé à écrire le mode **2 Joueurs** que je n'ai pas testé encore su
 
 ### Séance 10 - 15 avril 2018
 
-J'ai un probleme au niveau du bluetooth, car la puce bluetooth ne reçoit pas de réponse du téléphone dans le mode **2 joueurs** ce que j'ai pris 1h à essayer de résoudre. maintenant le joueur deux peut envoyer des données mais le jeux à deux joueurs en même temps marche pas.
+J'ai un probleme au niveau du bluetooth, car la puce bluetooth ne reçoit pas de réponse du téléphone dans le mode **2 joueurs** ce que j'ai pris 1h à essayer de résoudre. maintenant le joueur deux peut envoyer des données mais le jeux à deux joueurs en même temps marche pas. C'est pourquoi, après quelques recherches, j'ai trouvé la fonction listen qui permet de dire a l'Arduino d'écouter que ce port série là. Malheureusement cette fonction n'a pas marché dans notre cas.
 
 ### Séance 11 - 4 mai 2018
 
-on a bossé sur le bluetooth, on a presque résolu mon problème de la séance dernière et la puce bluetooth reçoit bien maintenant mais le problème c'est qu'il y en a qu'une seule qui reçoit sur les deux. On peut choisir le mode de jeu auquel on veut jouer avec le téléphone, les instructions sont marqués sur le moniteur de l'application.
+On a bossé sur le bluetooth, on a presque résolu mon problème de la séance dernière et la puce bluetooth reçoit bien maintenant mais le problème c'est qu'il y en a qu'une seule qui reçoit sur les deux. On peut choisir le mode de jeu auquel on veut jouer avec le téléphone, les instructions sont marqués sur le moniteur de l'application.
